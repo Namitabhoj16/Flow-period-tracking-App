@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Flow</string>
+    <string name="enter_your_email_id">Email ID</string>
+    <string name="enter_your_password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="today">Today</string>
+    <string name="self_care">Self care</string>
+    <string name="setting">Setting</string>
+    <string name="calendar">Calendar</string>
+    <string name="ovulation">Ovulation</string>
+    <string name="days_left">Days Left</string>
+    <string name="period">Next Period</string>
+    <string name="_3" translatable="false">3</string>
+    <string name="my_cycles">My cycles</string>
+    <string name="previous_cycle_length">Previous cycle Length</string>
+    <string name="days">Days</string>
+    <string name="previous_period_days">Previous Period Days</string>
+    <string name="started_day">Started day</string>
+    <string name="email">Email :</string>
+    <string name="firstname">First Name :</string>
+    <string name="lastName">Last Name :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

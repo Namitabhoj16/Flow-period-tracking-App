@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_your_email_id">अपना ईमेल आईडी दर्ज करें</string>
+    <string name="enter_your_password">अपना कूटशब्द भरें</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="first_name">" पहला नाम"</string>
+    <string name="last_name" >पारिवारिक नाम</string>
+    <string name="forget_password">पासवर्ड भूल गए</string>
+    <string name="today">" आज"</string>
+    <string name="self_care">आत्म सुधार</string>
+    <string name="setting">स्थापना</string>
+    <string name="calendar">पंचांग</string>
+    <string name="ovulation">डिंबोत्सर्जन</string>
+    <string name="days_left">दिन शेष</string>
+    <string name="period">मासिक</string>
+    <string name="_3">3</string>
+    <string name="my_cycles">मेरा मासिक धर्म</string>
+    <string name="previous_cycle_length">पिछला चक्र लंबाई</string>
+    <string name="days">" दिन"</string>
+    <string name="previous_period_days">पिछली अवधि के दिन</string>
+    <string name="started_day">शुरू हुआ दिन</string>
+    <string name="email">आपका ईमेल</string>
+    <string name="firstname">उपनाम</string>
+    <string name="lastName">नाम</string>
+</resources>

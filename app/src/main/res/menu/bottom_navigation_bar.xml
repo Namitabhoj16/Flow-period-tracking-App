@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_calendar"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_calendar_month_24"
+        android:title="@string/calendar" />
+    <item
+        android:id="@+id/page_self_improvement"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_self_improvement_24"
+        android:title="@string/self_care"/>
+    <item
+        android:id="@+id/page_setting"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/setting"
+        />
+</menu>
